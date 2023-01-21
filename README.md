@@ -12,4 +12,4 @@
 3. In common English, what does the word compile mean?
 - To translate a program from a high level language into a low level language. 
 4. What is an executable? Why is that word used as a noun?
--An executable is a translated program. It's used as a noun bc it's already been compiled. 
+-An executable is a translated program. It's used as a noun bc it's already been compiled.
